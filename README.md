@@ -39,9 +39,9 @@
     * Clone the 1-fixed trace from expansion repo. We have to adapt the code for it to work with our expression : `(input += String(input += 1)) % 6`
     * Steps : 
       * HTML
-        * Header
-        * input
-        * table
+        * Header : ok
+        * input : ok
+        * table : ok
       * Javascript
         * Trace-block
         * cleatable
