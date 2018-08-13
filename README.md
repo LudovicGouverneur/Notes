@@ -43,8 +43,8 @@
         * input : ok
         * table : ok
       * Javascript
-        * Trace-block
-        * cleatable
+        * Trace-block : ok
+        * clear table
         * trace : 
           * input
           * logic
