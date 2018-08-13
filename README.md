@@ -35,4 +35,18 @@
  * Separation of concerns : 
     *[git repository](https://github.com/elewa-academy/separation-of-concerns.git)
     * [ressources] (https://blog.kevinchisholm.com/tag/process-argv/)
- * Continue expansion adition
+ * Continue expansion adition : 
+    * Clone the 1-fixed trace from expansion repo. We have to adapt the code for it to work with our expression : `(input += String(input += 1)) % 6`
+    * Steps : 
+      * HTML
+        * Header
+        * input
+        * table
+      * Javascript
+        * Trace-block
+        * cleatable
+        * trace : 
+          * input
+          * logic
+          * outpus
+    
