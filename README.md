@@ -44,9 +44,11 @@
         * table : ok
       * Javascript
         * Trace-block : ok
-        * clear table
+        * clear table : ok
         * trace : 
-          * input
-          * logic
-          * outpus
+          * input : ok
+          * logic : ok
+          * outpus : ok
+    * Should be carefull making the distinction between : transitory value, constant, value that get changed
+    
     
