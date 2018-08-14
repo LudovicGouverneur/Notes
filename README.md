@@ -50,5 +50,7 @@
           * logic : ok
           * outpus : ok
     * Should be carefull making the distinction between : transitory value, constant, value that get changed
+    ### Tuesday : https://github.com/elewa-academy/prototypical-inheritance
+    
     
     
