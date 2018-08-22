@@ -2,11 +2,30 @@
 
 ## The developer toolbox
 
-### gitbash + github
+### 1. gitbash + github
 
-### visual studio
+### 2. visual studio
 
-### Python Tutor
+### 3. Python Tutor
 
-### Replit
+### 4. Replit
 
+### 5. Use a board/sheet of paper
+
+### 6. Make exercices
+
+## The developer Good Habits
+
+
+## Topics
+
+### Machine/State/Application/Programmer Process
+### Snippets 
+### Expansion
+### Lodash
+### Functions
+### Objects and POO
+
+## Tips
+### Be organized
+###
